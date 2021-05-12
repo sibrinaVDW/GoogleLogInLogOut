@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272546633133",
+    "project_id": "loginlogout-3188d",
+    "storage_bucket": "loginlogout-3188d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272546633133:android:f1241cb4c4562763abfd24",
+        "android_client_info": {
+          "package_name": "com.example.googleloginlogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272546633133-hpt5186ft1c95fvlc6rqopkm8je5mn08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fNhcI_anzoJFil2qp5DU-nS-7xPzv88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272546633133-hpt5186ft1c95fvlc6rqopkm8je5mn08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name = "GoogleLogInLogOut"
+include ':app'
